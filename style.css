@@ -1,0 +1,45 @@
+/* Apply some general styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #img-div {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    margin-top: 10px;
+  }
+  
+  #tribute-info {
+    margin-top: 20px;
+  }
+  
+  #tribute-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
